@@ -1,1 +1,1 @@
-Repository moved here: D:\Projects\openhab2\openhab-addons\bundles\org.openhab.binding.xiaomigatewayv3
+Repository moved here: https://github.com/hubaksis/org.openhab.binding.xiaomigatewayv3
